@@ -1,0 +1,3 @@
+2020/10/28 
+Yang 文件的import 语法检查报错：not valid abstract module xxxxxx, 
+其实，被import的文件就在同级目录下，在将该文件在VSCode打卡后，该语法检测错误消失
